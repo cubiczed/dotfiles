@@ -1,12 +1,13 @@
 {
-  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
-	"logo": {
-        "type": "builtin",
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+	 "logo": {
+        "type": "auto",
         "height": null,
-        "width": 15,
+        "width": null,
         "padding": {
             "top": 5,
-            "left": 5
+            "left": 9,
+            "right": 9
         }
     },
     "modules": [
